@@ -6,7 +6,7 @@ import jwt from 'jsonwebtoken';
 import { upload } from './middleware/upload';
 
 const ADMIN_EMAIL = 'sbrdomain1@gmail.com';
-const ADMIN_PASS = 'sbradmin123';
+const ADMIN_PASS = '123sbrestates';
 
 dotenv.config();
 
